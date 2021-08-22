@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Bernardo (@gabrielbssantos)
-- 👀 I’m interested in Web Development with Python
-- 🌱 I’m currently learning Python, Java, Javascript
-- 💞️ I’m looking to collaborate on Web Scrapping and GUI Automation projects
+- 👀 I’m interested in Web Development using Python or Javascript technologies
+- 🌱 I’m currently learning Python, Javascript and their main libs
+- 💞️ I’m looking to collaborate on Web Scrapping and GUI Automation projects (Python) and Web Development (React, Node, Express)
 - 📫 You can get in touch with me by e-mail or LinkedIn:  
      gabrielbsud@gmail.com. 
      https://www.linkedin.com/in/gabrielbssantos/
